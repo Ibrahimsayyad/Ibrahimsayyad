@@ -30,5 +30,3 @@
 > b2.intersection_update(b1)
 > b2
 {'k', 'l'}
-> 
-> 
